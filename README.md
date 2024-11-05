@@ -1,5 +1,5 @@
 ## Data Engineering Tasks
-### Data Ingestion
+## Data Ingestion
 The data ingestion script reads data from a source (e.g., CSV file) and stores it in the `data/raw/` directory.
 
 **Script**: `scripts/data_ingestion/ingest_csv.py`
