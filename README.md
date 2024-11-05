@@ -5,6 +5,6 @@ The data ingestion script reads data from a source (e.g., CSV file) and stores i
 **Script**: `scripts/data_ingestion/ingest_csv.py`
 
 **Usage**:
-```bash
+``bash
 python scripts/data_ingestion/ingest_csv.py
 
